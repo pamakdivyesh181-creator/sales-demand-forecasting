@@ -12,6 +12,16 @@ To analyze past sales data and forecast future demand using basic data analysis 
 - Matplotlib
 - Machine Learning (basic)
 
+## How it Works
+1. Load historical sales data from CSV
+2. Convert months into numeric format
+3. Train a Linear Regression model
+4. Predict sales for the next month
+
+## Output
+- Displays past sales data
+- Predicts future sales demand
+
 ## Status
 Project started (mobile development)
 
