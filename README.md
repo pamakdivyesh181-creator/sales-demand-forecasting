@@ -12,6 +12,9 @@ To analyze past sales data and forecast future demand using basic data analysis 
 - Matplotlib
 - Machine Learning (basic)
 
+## Visualization
+A line graph is used to visualize monthly sales trends, helping businesses understand demand patterns.
+
 ## How it Works
 1. Load historical sales data from CSV
 2. Convert months into numeric format
